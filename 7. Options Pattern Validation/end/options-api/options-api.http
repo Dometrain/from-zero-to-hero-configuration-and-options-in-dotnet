@@ -1,0 +1,6 @@
+@options_api_HostAddress = http://localhost:5237
+
+GET {{options_api_HostAddress}}/logging/options/
+Accept: application/json
+
+###

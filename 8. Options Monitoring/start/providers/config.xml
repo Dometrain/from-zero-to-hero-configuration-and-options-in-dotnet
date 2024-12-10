@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <Delay>0:0:05</Delay>
+  <TodoApiOptions>
+    <Enabled>true</Enabled>
+    <BaseAddress>https://jsonplaceholder.typicode.com/todos</BaseAddress>
+  </TodoApiOptions>
+  <Logging>
+    <LogLevel>
+      <Default>Information</Default>
+      <Microsoft.Hosting.Lifetime>Warning</Microsoft.Hosting.Lifetime>
+    </LogLevel>
+  </Logging>
+</configuration>
