@@ -2,7 +2,7 @@
 
 Welcome to the ["From Zero to Hero: Configuration and Options in .NET"](https://dometrain.com/course/from-zero-to-hero-configuration-and-options-in-dotnet/?ref=github) course on Dometrain! This course is designed to take you from a beginner to an expert in configuring and managing options in .NET applications. The repository contains the source code for the course, which you can use to follow along with the lessons.
 
-## The Course
+## Getting Started
 
 To get started with the course, visit the course page on Dometrain:
 
